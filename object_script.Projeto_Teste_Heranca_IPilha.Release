@@ -1,0 +1,12 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/ipilha.o
+./release/pilha.o
+./release/lista.o
+./release/no.o
+./release/dialog.o
+./release/disco.o
+./release/jogo.o
+./release/moc_mainwindow.o
+);
